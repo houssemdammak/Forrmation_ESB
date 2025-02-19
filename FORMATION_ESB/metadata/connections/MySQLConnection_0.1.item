@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_cgWBsO7LEe-DUp8AqKa6dQ" name="MySQLConnection" id="_TzlF4O7LEe-DUp8AqKa6dQ" label="MySQLConnection" dataPackage="_K7kRcO7NEe-DUp8AqKa6dQ" ContextMode="true" ContextId="_l2-2YO7KEe-DUp8AqKa6dQ" contextName="Development" DatabaseType="MySQL" DriverJarPath="" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3306/employesswebservice?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="context.db_port" Username="context.db_user" Password="context.db_password" ServerName="context.db_host" DatasourceName="" FileFieldName="" SID="context.db_name" SqlSynthax="" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" DBRootPath="" AdditionalParams="context.additional_variables" StandardSQL="true" SQLMode="false" UiSchema="" supportNLS="false">
+    <taggedValue xmi:id="_cgWBse7LEe-DUp8AqKa6dQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_cgkrMO7LEe-DUp8AqKa6dQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_cgmgYO7LEe-DUp8AqKa6dQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_cgmgYe7LEe-DUp8AqKa6dQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_cgmgYu7LEe-DUp8AqKa6dQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_cgmgY-7LEe-DUp8AqKa6dQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_cgmgZO7LEe-DUp8AqKa6dQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_cgmgZe7LEe-DUp8AqKa6dQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_cgvqUO7LEe-DUp8AqKa6dQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_cgvqUe7LEe-DUp8AqKa6dQ" tag="DB ProductVersion" value="8.0.31"/>
+    <taggedValue xmi:id="_cgvqUu7LEe-DUp8AqKa6dQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_cgWBsu7LEe-DUp8AqKa6dQ" key="CONN_PARA_KEY_USERNAME" value="context.db_user"/>
+    <parameters xmi:id="_VRNsEO7MEe-DUp8AqKa6dQ" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_K7kRcO7NEe-DUp8AqKa6dQ" name="employesswebservice" dataManager="_cgWBsO7LEe-DUp8AqKa6dQ"/>
+</xmi:XMI>
